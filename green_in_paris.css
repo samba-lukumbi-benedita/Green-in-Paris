@@ -1,0 +1,156 @@
+h1{ color:white;
+	background-color: #E2F3DE;
+	text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+}
+
+h5{
+	font-size-adjust: 1;
+	text-align: center;
+
+}
+
+.m h3{
+	color:darkblue;
+	font-style: normal;
+	font-weight: ;
+	
+}
+
+.i h3{
+	color:white;
+	text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+}
+
+.f h3{
+	color:red;
+	font-style: normal;
+	font-weight: ;
+}
+
+h4{
+	color:#E2F3DE;
+	font-style: inherit;
+	font-weigt: !important;
+	text-align: center;
+	font-family: sans-serif;
+	background-color:black;
+	
+}
+
+h2{
+	font-size-adjust: 0.6;
+	color:#39800E;
+
+
+}
+
+.navbar{
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+	background-color: #E2F3DE;
+	text-align: center;
+
+}
+
+.navbar li{
+	display:inline;
+}
+
+.navbar li a {
+	display: inline-block;
+	color:white;
+	text-align: center;
+	padding: 14px 20px;
+	text decoration: none;
+	transition: background-color 0.3s, color 0.3s;
+	font-weight: 600;
+	text-decoration: none;
+
+}
+
+.navbar li a:hover{
+	background-color: #87CEEB;
+	color: #5CB85C;
+}
+
+h3{
+	color: dark;
+	font-style: normal;
+	font-weight: ;
+}
+
+h1{ text-align: center;
+
+
+}
+ul{
+	text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Styles pour les items */
+.item {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.item img {
+    width: 360px;
+    height: 360px;
+    cursor: pointer;
+    border: 2px solid black; /* Outline noire */
+    transition: border 0.3s;
+}
+
+.item img:hover {
+    border: 2px solid #E2F3DE;
+
+}
+
+
+/* Styles pour les boutons d'achat */
+.buy-button {
+    background-color: #39800E; /* Code couleur pour le fond du bouton */
+    color: white; /* Couleur du texte */
+    border: none; /* Enlever la bordure par défaut */
+    padding: 10px 20px; /* Espacement interne du bouton */
+    cursor: pointer; /* Changer le curseur au survol */
+    font-size: 16px; /* Taille de la police */
+    border-radius: 5px; /* Coins arrondis du bouton */
+    transition: background-color 0.3s; /* Transition de couleur au survol */
+     display: block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+/* Couleur du bouton lors du survol */
+.buy-button:hover {
+    background-color: #E2F3DE; /* Couleur au survol (plus foncée ou différente) */
+}
+
+footer {
+    background-color: #E2F3DE; 
+    text-align: center;
+    padding: 20px 0;
+    margin-top: auto;
+}
+
+footer a {
+    color: #E2F3DE;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
